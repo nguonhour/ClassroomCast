@@ -1,0 +1,7 @@
+ClassroomCast - preliminary teacher review, 10 November 2026
+
+Present PDFs 01-03. Keep PDF 04 as your meeting guide. All are drafts pending confirmation.
+These are new replacement PDFs, not verified copies of the four unavailable Downloads PDFs.
+The editable Markdown sources and audit inventory are in sources/.
+Critical decisions: three-sprint baseline versus older six-sprint drafts; Jan 25 editing cutoff versus Jan 27 release/Feb 3 presentation; capacity, deployment modes, network authorization and actual team capacity.
+Open your existing FigJam board separately and check teacher viewing access. No website or board was modified.

@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Zip bundles of files already in the repo
+*.zip
+
+# Generated HTML (rebuilt from Markdown by _build/build.sh)
+classroomCast_v2/teacher_submission/_build/ClassroomCast_*.html
